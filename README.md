@@ -3,7 +3,7 @@
 GES - Memeful Mineacraft Modding Creative Association (MMM)
 We are developing minecraft mods, datapacks
 
-![GES Logo](https://github.com/GES-Studios/GES-Studios/blob/main/img/logo.jpg)
+![GES Logo](https://github.com/GES-Studios/GES-Studios/blob/main/images/logo.jpg)
 
 <!--
 **GES-Studios/GES-Studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
